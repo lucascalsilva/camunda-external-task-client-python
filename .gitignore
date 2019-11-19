@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+__pycache__
+env
+process
+__pycache__
+*.pyc
+worker.py
